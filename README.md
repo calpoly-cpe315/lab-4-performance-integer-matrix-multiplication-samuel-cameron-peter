@@ -1,5 +1,6 @@
 # cpe315-matmul
 ## Your name(s) here
+Peter Edmonds
 
 ### To build:
 ```shell
