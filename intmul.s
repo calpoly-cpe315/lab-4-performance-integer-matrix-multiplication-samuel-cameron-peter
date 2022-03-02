@@ -23,8 +23,8 @@ loop:
 
 	// counter--
 	mov x0, x23
-	mov x1, #1
-	bl intsub
+	mov x1, #-1
+	bl intadd
 	mov x23, x3
 
 	and x22, x20, #1
